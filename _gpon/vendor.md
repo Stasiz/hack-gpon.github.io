@@ -44,6 +44,7 @@ Here is a list of the most popular Vendor IDs:
 | `SCOM` | `53434f4d` | Sercomm              |
 | `SMBS` | `534d4253` | Sagemcom             | 
 | `SPGA` | `53504741` | SourcePhotonics      |
+| `TDTC` | `54445443` | Tenda                |
 | `TMBB` | `544d4242` | Technicolor          |
 | `TPLG` | `54504c47` | TP-Link              |
 | `UBNT` | `55424e54` | Ubiquiti             |
